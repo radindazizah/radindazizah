@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @radindazizah
-- 👀 I’m interested in Business Intelligence and SQA
-- 🌱 I’m currently learning Business Intelligence and SQA
+- 👀 I’m interested in SQA
+- 🌱 I’m currently learning SQA and Front End
 - 📫 How to reach me: rizkyadindaazizah@gmail.com
 
 
